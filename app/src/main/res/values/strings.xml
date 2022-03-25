@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Homework8</string>
+    <string name="app_name">Homework 8: Notifications, Dependencies</string>
+    <string name="get_fcm_token">Get FCM token</string>
+    <string name="no_google_services">Device doesn\'t have a compatible version of Google Play services.</string>
 </resources>
