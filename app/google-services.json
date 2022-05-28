@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952365982984",
+    "project_id": "course-homework-8",
+    "storage_bucket": "course-homework-8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952365982984:android:35c888fa21051364f1f8bd",
+        "android_client_info": {
+          "package_name": "com.chocomiruku.homework8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952365982984-80t9guj0jke0306iep4c2t9sinu5rdph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjONugQb7ByDWncBkllwROqsj6lMkIkEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952365982984-80t9guj0jke0306iep4c2t9sinu5rdph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
